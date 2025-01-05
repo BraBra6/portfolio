@@ -6,7 +6,7 @@ module.exports = {
         slice: 'slice 2s ease-in-out forwards',
         bgSlideLeft: 'bgSlideLeft 2s ease-in-out forwards',
         bgSlideRight: 'bgSlideRight 2s ease-in-out forwards',
-        reveal: 'reveal 2s ease-in-out 2.5s forwards',
+        reveal: 'reveal 2s ease-in-out 2s forwards',
       },
       keyframes: {
         slice: {
